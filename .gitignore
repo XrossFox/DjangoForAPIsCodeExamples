@@ -2,3 +2,4 @@
 *.pyc
 db.sqlite3
 workspace.code-workspace
+node_modules
